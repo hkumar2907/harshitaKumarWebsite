@@ -1,0 +1,12 @@
+---
+title: "Discussing Peer Review"
+date: "March 13, 2025"
+---
+
+Today, I will discuss my thoughts on public peer review, as described by Jeff Leek in How to Be a Modern Scientist. This topic is important to me because, as I progress in my career, reviewing papers will become an increasingly significant responsibility—whether through requests from my PI or direct contact with editors.
+
+However, I was surprised to learn that there are opportunities to review beyond these traditional mechanisms, such as posting on different servers and blogs. This could be especially impactful for interdisciplinary research. I also appreciated the discussion on the varying timeframes for peer review, as realizing how long it takes for papers to be published was a huge shock when I first started in research. This idea is further reinforced by Leek’s suggestion that reviewers should only request major or minor revisions if they are confident the paper will ultimately be accepted after the changes are made.
+
+Nevertheless, given this large time frame, this is the reason why I think pre-printing papers through services like BioRxiv is important. This firstly allows for early access to papers, allowing the ideas to be spread early. Furthermore, it is easier to get feedback from the field. It can also help early career researchs get credit earlier for their work.  
+
+I'm also interested to see how peer review will change now with the introduction of generative AI models, such as ChatGPT. For example, it seems that such models are already being used as a third reviewer. This could make science more standardized, but perhaps also filter out some creativity and newer ideas. 
